@@ -43,6 +43,14 @@ Cleaned and aggregated data from the SQL query, including:
 - Period covered: 2014 to 2019 (shown as 2019–2024 for a modern look)
 
 ---
+## 📍 Heatmap of Bike Usage
+
+This map highlights areas with the highest bike traffic.
+
+![Heatmap](visualisations/heatmap_bike_usage.png)
+
+---
+
 
 ## 🔗 Useful Links
 
