@@ -49,12 +49,27 @@ Analyzes trip counts in relation to average monthly temperatures.
 ![Temperature Effect](visualisations/temperature_effect.png)
 
 ---
+## 💻 Interactive Dashboard
+
+You can explore the interactive version of this dashboard on Tableau Public:
+
+👉 [Click here to open the dashboard](https://public.tableau.com/app/profile/el.khlife.messoud/vizzes)
+
+The dashboard includes:
+- Seasonal analysis
+- Weather impact on trip volume
+- Geographic heatmaps
+- Subscriber vs. Customer segmentation
+
+  ---
+
 
 ## 🔗 Useful Links
 
 - [Kaggle Notebook](#) *(coming soon)*
-- [Tableau Dashboard](#) *(if available)*
-- [Notion Portfolio](#) *(to centralize everything)*
+- [🌐 Tableau Public Dashboard](https://public.tableau.com/...) *(interactive version)*
+- [Notion Portfolio](#) *(coming soon)*
+
 
 ---
 
