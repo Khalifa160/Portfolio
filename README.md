@@ -38,7 +38,7 @@ Highlights areas with high bike trip density in NYC.
 
 ### 🌧️ Impact of Weather on Monthly Bike Usage
 Displays how dry vs rainy days influence ride frequency.  
-![Weather Impact](visualisations/weather_impact.png)
+![Weather Impact](visualisations/rain_impact.png)
 
 ### 🏙️ Top 10 Neighborhoods by Trip Departures
 Reveals the neighborhoods with the highest number of bike departures.  
