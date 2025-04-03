@@ -21,42 +21,40 @@ This project aims to analyze shared bike trips in New York (CitiBike) to better 
 ## 📊 Datasets Used
 
 - **CitiBike Trips** (BigQuery Public Data)
-- **NOAA Weather (GSOD)** – temperature, wind, and precipitation
-- **ZIP Code Boundaries** – to enrich geographic data
+- **NOAA Weather (GSOD)** – for temperature, wind, and precipitation
+- **ZIP Code Boundaries** – to enrich geographic context
 
 ---
 
-## 📁 File Descriptions
+## 📁 Key Visualizations
 
-### `/project_documents/`
-Contains all the functional and strategic documentation:
-- Project requirements
-- Stakeholder requirements
-- Strategy plan for dashboard creation
+### 📈 Trip Evolution Over Time
+Shows the evolution of customer vs subscriber rides over the months.  
+![Trip Evolution](visualisations/trip_evolution.png)
 
-### `/sql/analyse_cyclistic.sql`
-Main SQL query used to generate the `Cycldash2.csv` file.
+### 🗺️ Heatmap of Bike Trip Concentration
+Highlights areas with high bike trip density in NYC.  
+![Heatmap](visualisations/heatmap_concentration.png)
 
-### `/dataset/Cycldash2.csv`
-Cleaned and aggregated data from the SQL query, including:
-- Usertype, location, weather, trip duration, number of trips
-- Period covered: 2014 to 2019 (shown as 2019–2024 for a modern look)
+### 🌧️ Impact of Weather on Monthly Bike Usage
+Displays how dry vs rainy days influence ride frequency.  
+![Weather Impact](visualisations/weather_impact.png)
+
+### 🏙️ Top 10 Neighborhoods by Trip Departures
+Reveals the neighborhoods with the highest number of bike departures.  
+![Top Neighborhoods](visualisations/top_neighborhoods.png)
+
+### 🌡️ Impact of Temperature on Cycling Activity
+Analyzes trip counts in relation to average monthly temperatures.  
+![Temperature Effect](visualisations/temperature_effect.png)
 
 ---
-## 📍 Heatmap of Bike Usage
-
-This map highlights areas with the highest bike traffic.
-
-![Heatmap](visualisations/heatmap_bike_usage.png)
-
----
-
 
 ## 🔗 Useful Links
 
-- 🔍 [Kaggle Notebook (coming soon)](kaggle_link)
-- 📊 [Tableau Public Dashboard (if available)](tableau_link)
-- 🌐 [Central Notion Page (coming soon)](notion_link)
+- [Kaggle Notebook](#) *(coming soon)*
+- [Tableau Dashboard](#) *(if available)*
+- [Notion Portfolio](#) *(to centralize everything)*
 
 ---
 
