@@ -66,7 +66,6 @@ The dashboard includes:
 
 ## 🔗 Useful Links
 
-- [Kaggle Notebook](#) *(coming soon)*
 - [🌐 Tableau Public Dashboard](https://public.tableau.com/...) *(interactive version)*
 - [Notion Portfolio](https://www.notion.so/Hi-I-m-El-Khlife-1c9ae5fde1768064ab3fd318e82c3760)
 
