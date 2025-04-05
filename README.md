@@ -49,6 +49,13 @@ Analyzes trip counts in relation to average monthly temperatures.
 ![Temperature Effect](visualisations/temperature_effect.png)
 
 ---
+## 🎤 Project Presentation
+
+You can download the final project presentation here:
+
+📄 [Download Presentation (PDF)](presentation/Cyclistic_Presentation.pdf)
+
+---
 ## 💻 Interactive Dashboard
 
 You can explore the interactive version of this dashboard on Tableau Public:
