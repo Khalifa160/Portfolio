@@ -53,7 +53,7 @@ Analyzes trip counts in relation to average monthly temperatures.
 
 You can download the final project presentation here:
 
-📄 [Download Presentation (PDF)](presentation/Cyclistic_Presentation.pdf)
+📄 [Download Presentation (PDF)](presentation/The NYC Bike Case.pdf)
 
 ---
 ## 💻 Interactive Dashboard
