@@ -51,9 +51,10 @@ Analyzes trip counts in relation to average monthly temperatures.
 ---
 ## 🎤 Project Presentation
 
-You can download the final project presentation here:
+📄 [View the stakeholder presentation (PDF)](presentation/The%20NYC%20Bike%20Case.pdf)
 
-📄 [Download Presentation (PDF)](presentation/The NYC Bike Case.pdf)
+This presentation provides a summary of the project insights, methodology, and key visual findings.
+
 
 ---
 ## 💻 Interactive Dashboard
