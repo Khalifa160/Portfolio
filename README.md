@@ -56,7 +56,26 @@ Analyzes trip counts in relation to average monthly temperatures.
 This presentation provides a summary of the project insights, methodology, and key visual findings.
 
 
+
 ---
+
+## 🚴 Featured Project: The NYC Bike Case
+
+📁 This project analyzes shared bike usage in New York City using CitiBike trip data, weather records, and ZIP code zones. It includes:
+
+- A BigQuery SQL query to prepare the dataset
+- A Tableau Public dashboard
+- Documentation and final stakeholder presentation
+- Key visualizations
+
+---
+
+🔗 [Explore the Cyclistic Dashboard Folder](./Cyclistic-Dashboard)
+
+📄 [View the SQL Query](./Cyclistic-Dashboard/sql/analyse_cyclistic.sql)  
+📊 [View the Dashboard (Tableau)](https://public.tableau.com/...)  
+📁 [Download the Presentation](./Cyclistic-Dashboard/presentation/The%20NYC%20Bike%20Case.pdf)
+
 ## 💻 Interactive Dashboard
 
 You can explore the interactive version of this dashboard on Tableau Public:
