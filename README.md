@@ -72,7 +72,7 @@ This presentation provides a summary of the project insights, methodology, and k
 
 🔗 [Explore the Cyclistic Dashboard Folder](./Cyclistic-Dashboard)
 
-📄 [View the SQL Query](./Cyclistic-Dashboarb/Cyclistic_Dashboard_Portfolio.zip)  
+📄 [View the SQL Query](https://github.com/Khalifa160/Portfolio/blob/main/Cyclistic-Dashboarb/Cyclistic_Dashboard_Portfolio.zip)
 📊 [View the Dashboard (Tableau)](https://public.tableau.com/...)  
 📁 [Download the Presentation](./Cyclistic-Dashboard/presentation/The%20NYC%20Bike%20Case.pdf)
 
