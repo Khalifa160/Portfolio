@@ -70,12 +70,6 @@ This presentation provides a summary of the project insights, methodology, and k
 
 ---
 
-🔗 [Explore the Cyclistic Dashboard Folder](./Cyclistic-Dashboard)
-
-📄 [View the SQL Query](https:/Cyclistic-Dashboarb/Cyclistic_Dashboard_Portfolio.zip)
-📊 [View the Dashboard (Tableau)](https://public.tableau.com/...)  
-📁 [Download the Presentation](./Cyclistic-Dashboard/presentation/The%20NYC%20Bike%20Case.pdf)
-
 ## 💻 Interactive Dashboard
 
 You can explore the interactive version of this dashboard on Tableau Public:
