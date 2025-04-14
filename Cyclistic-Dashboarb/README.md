@@ -59,7 +59,7 @@ Download the final stakeholder presentation (PDF):
 
 🔗 [Explore the Cyclistic Dashboard Folder](./Cyclistic-Dashboard)
 
-📄 [View the SQL Query](./Cyclistic-Dashboard/sql/analyse_cyclistic.sql)  
+📄 [View the SQL Query](./Cyclistic-Dashboarb/sql/analyse_cyclistic.sql)  
 📊 [View the Dashboard (Tableau)](https://public.tableau.com/...)  
 📁 [Download the Presentation](./Cyclistic-Dashboard/presentation/The%20NYC%20Bike%20Case.pdf)
 
