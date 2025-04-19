@@ -20,10 +20,6 @@
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## 📊 Datasets Used
 
 - **CitiBike Trips** (BigQuery Public Data)
