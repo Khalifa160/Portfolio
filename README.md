@@ -2,7 +2,14 @@
 
 ## 📌 Overview
 
-This project aims to analyze shared bike trips in New York (CitiBike) to better understand user behavior based on geography, seasons, and weather conditions.
+📁 This project analyzes shared bike usage in New York City using CitiBike trip data, weather records, and ZIP code zones. It includes:
+
+- A BigQuery SQL query to prepare the dataset
+- A Tableau Public dashboard
+- Documentation and final stakeholder presentation
+- Key visualizations
+
+---
 
 ## 🎯 Dashboard Objectives
 
@@ -14,7 +21,6 @@ This project aims to analyze shared bike trips in New York (CitiBike) to better 
 ---
 
 ## 📂 Repository Structure
-
 
 ---
 
@@ -56,17 +62,6 @@ Analyzes trip counts in relation to average monthly temperatures.
 This presentation provides a summary of the project insights, methodology, and key visual findings.
 
 
-
----
-
-## 🚴 Featured Project: The NYC Bike Case
-
-📁 This project analyzes shared bike usage in New York City using CitiBike trip data, weather records, and ZIP code zones. It includes:
-
-- A BigQuery SQL query to prepare the dataset
-- A Tableau Public dashboard
-- Documentation and final stakeholder presentation
-- Key visualizations
 
 ---
 
