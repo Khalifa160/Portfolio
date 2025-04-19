@@ -78,7 +78,7 @@ The dashboard includes:
 
 ## 🔗 Useful Links
 
-- [🌐 Tableau Public Dashboard](https://public.tableau.com/...) *(interactive version)*
+- [🌐 Tableau Public Dashboard](https://public.tableau.com/app/profile/el.khlife.messoud/vizzes) *(interactive version)*
 - [Notion Portfolio](https://www.notion.so/Hi-I-m-El-Khlife-1c9ae5fde1768064ab3fd318e82c3760)
 
 
