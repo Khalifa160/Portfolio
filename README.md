@@ -96,5 +96,5 @@ The dashboard includes:
 ## 👨‍💼 Author
 
 **El Khlife Messoud**  
-Business Intelligence Analyst  
+Data Analyst  
 April 2025
