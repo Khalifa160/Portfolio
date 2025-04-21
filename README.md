@@ -80,6 +80,7 @@ The dashboard includes:
 
 - [🌐 Tableau Public Dashboard](https://public.tableau.com/app/profile/el.khlife.messoud/vizzes) *(interactive version)*
 - [Notion Portfolio](https://www.notion.so/Hi-I-m-El-Khlife-1c9ae5fde1768064ab3fd318e82c3760)
+- [LinkedIn](https://www.linkedin.com/in/el-khlife-messoud-153530217/?trk=opento_sprofile_topcard)
 
 
 ---
